@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @IshitaSwami
   
-- 🔭 I’m currently working on AWS 
+- 🔭 I’m currently getting better each day and moving ahead with Confidence
 
-- 🌱 I’m currently an Intern at Kone Elevators
+- 🌱 Junior QA Analyst - DecisivEdge Technology Services Pvt. Ltd.
+- 🌱 AWS Cloud Engineer Intern - KONE Elevators
+
+- 🌱 I have experience on working on AWS Cloud and Testing the Oracle Financial Applications
 
 - 💬 Ask me about C++,Python,Machine Learning,Excel,Power BI,Cyber Security,MySQL
 
