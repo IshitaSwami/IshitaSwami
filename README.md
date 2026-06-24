@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @IshitaSwami
   
 - 🔭 I’m currently getting better each day and moving ahead with Confidence
-
+ 
+- 🌱 AI Development and SaaS CSV Validation - Quality Engineer - LTM 
 - 🌱 Junior QA Analyst - DecisivEdge Technology Services Pvt. Ltd.
 - 🌱 AWS Cloud Engineer Intern - KONE Elevators
 
